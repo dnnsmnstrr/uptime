@@ -9,8 +9,6 @@ sites: # List of endpoints to track
     url: https://dnnsmnstrr.vercel.app/
   - name: Universe
     url: https://dnnsmnstrr.onuniverse.com
-  - name: VPN
-    url: $VPN_URL
 
 assignees: # Users to assign downtime issues (optional)
   - dnnsmnstrr
