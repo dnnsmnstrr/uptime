@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites: # List of endpoints to track
   - name: Homepage
-    url: https://muensterer.tech
+    url: https://muensterer.codes
   - name: API
     url: https://dnnsmnstrr.vercel.app/
   - name: Universe
