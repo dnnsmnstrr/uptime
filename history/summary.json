@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/muensterer.codes",
     "slug": "homepage",
     "status": "up",
-    "uptime": "92.87%",
+    "uptime": "92.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.87%",
+    "uptimeYear": "92.98%",
     "time": 276,
     "timeDay": 213,
     "timeWeek": 276,
@@ -45,9 +45,9 @@
     "url": "https://dnnsmnstrr.onuniverse.com",
     "icon": "https://favicons.githubusercontent.com/dnnsmnstrr.onuniverse.com",
     "slug": "universe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,6 +56,8 @@
     "timeWeek": 126,
     "timeMonth": 185,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   }
 ]
