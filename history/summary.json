@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/muensterer.codes.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 303,
     "timeDay": 250,
     "timeWeek": 262,
@@ -28,9 +28,9 @@
     "url": "https://dnnsmnstrr.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/dnnsmnstrr.vercel.app.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,7 +39,9 @@
     "timeWeek": 86,
     "timeMonth": 117,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-10": 0
+    }
   },
   {
     "name": "Universe",
