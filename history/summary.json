@@ -4,7 +4,7 @@
     "url": "https://muensterer.lol",
     "icon": "https://icons.duckduckgo.com/ip3/muensterer.lol.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 258,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2024-07-16": 0,
       "2024-06-04": 496
     }
   },
