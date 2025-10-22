@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/muensterer.lol.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "61.27%",
+    "uptime": "61.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 256,
+    "time": 257,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-21": 6,
+      "2025-10-22": 6,
+      "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -379,8 +380,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 1440,
-      "2024-10-22": 1440
+      "2024-10-23": 1440
     }
   },
   {
@@ -390,22 +390,21 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 149,
-    "timeDay": 1359,
-    "timeWeek": 786,
-    "timeMonth": 375,
+    "timeDay": 136,
+    "timeWeek": 785,
+    "timeMonth": 377,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2025-10-20": 45,
       "2025-08-30": 23,
       "2025-08-29": 17,
       "2025-08-25": 38,
-      "2025-04-03": 37,
-      "2024-10-22": 21
+      "2025-04-03": 37
     }
   },
   {
@@ -415,14 +414,14 @@
     "slug": "universe",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 240,
-    "timeDay": 1457,
-    "timeWeek": 700,
-    "timeMonth": 413,
+    "time": 241,
+    "timeDay": 297,
+    "timeWeek": 699,
+    "timeMonth": 411,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-10-20": 21,
@@ -432,8 +431,7 @@
       "2025-07-17": 18,
       "2025-04-03": 36,
       "2024-12-04": 15,
-      "2024-11-04": 17,
-      "2024-10-22": 21
+      "2024-11-04": 17
     }
   }
 ]
