@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/muensterer.lol.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "57.68%",
+    "uptime": "57.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.25%",
+    "uptimeYear": "17.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -316,8 +316,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   },
   {
@@ -332,9 +331,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 148,
-    "timeDay": 234,
-    "timeWeek": 152,
-    "timeMonth": 131,
+    "timeDay": 103,
+    "timeWeek": 155,
+    "timeMonth": 132,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-11-16": 17,
@@ -356,8 +355,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 261,
-    "timeDay": 395,
-    "timeWeek": 358,
+    "timeDay": 283,
+    "timeWeek": 368,
     "timeMonth": 326,
     "timeYear": 295,
     "dailyMinutesDown": {
